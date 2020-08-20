@@ -12,3 +12,5 @@ PDF Token
 python pdf-parser.py -o 16 -O filename.pdf
 the /URI of the object stream contains canarytokens.net
 
+DOCX Token
+python docx.py -f filename.docx
