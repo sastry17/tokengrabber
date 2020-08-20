@@ -21,7 +21,7 @@ def process(pkt):
             queries_liste[pkt[ip46].dst][pkt[ip46].src][query] += 1
 
 
-        system('cls')
+        #system('cls')
         #print("{:15s} | {:15s} | {:15s} | {}".format("IP source", "DNS server", "Count DNS request", "Query"))
         for ip in queries_liste:
             #print("{:15s}".format(ip))  # IP source
@@ -51,7 +51,7 @@ if __name__ == "__main__":
         from scapy.all import DNS
 
 
-        system('cls')
+        #system('cls')
         #print("{:15s} | {:15s} | {:15s} | {}".format("IP source", "DNS server", "Count DNS request", "Query"))
 
         if iface != "":
