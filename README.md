@@ -14,7 +14,7 @@ $python dns_sniffer.py -i interface \
 example: $python dns_sniffer.py -i eth0
 
 PDF Token\
-python pdf-parser.py -o 16 -O filename.pdf
+python pdf-parser.py -o 16 -O filename.pdf \
 the /URI of the object stream contains canarytokens.net
 
 DOCX Token\
