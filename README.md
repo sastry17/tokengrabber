@@ -25,3 +25,11 @@ python folder.py --d dir_name
 
 __Screenshots__
 
+DNS Sniffer:
+
+![DNS](https://github.com/sastry17/tokengrabber/blob/master/screenshots/DNS.png)
+
+![Canary_token](https://github.com/sastry17/tokengrabber/blob/master/screenshots/Application.png )
+
+
+
