@@ -29,6 +29,8 @@ DNS Sniffer:
 
 ![DNS](https://github.com/sastry17/tokengrabber/blob/master/screenshots/DNS.png)
 
+Detection for folder, pdf and docx Canarytokens:
+
 ![Canary_token](https://github.com/sastry17/tokengrabber/blob/master/screenshots/Application.png )
 
 
