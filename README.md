@@ -22,3 +22,6 @@ python docx.py -f filename.docx
 
 DIRECTORY Token\
 python folder.py --d dir_name
+
+__Screenshots__
+
